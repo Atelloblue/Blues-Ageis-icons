@@ -1,19 +1,19 @@
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/.github/delta_logo.svg" width="200" />
-    <img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/.github/aegis_logo.svg" width="200" />
+    <img src="https://raw.githubusercontent.com/Blue-Icons/blue-icons/master/.github/blue_logo.svg" width="200" />
+    <img src="https://raw.githubusercontent.com/Blue-Icons/aegis-icons/master/.github/aegis_logo.svg" width="200" />
 </p>
 
 <p align="center">
-    <b>Delta version of <a href="https://aegis-icons.github.io/">aegis-icons</a>, the unofficial monochrome-styled 2FA icon pack for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</b>
+    <b>Atelloblues version of <a href="https://aegis-icons.github.io/">aegis-icons</a>, the unofficial monochrome-styled 2FA icon pack for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</b>
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/.github/showcase.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/Blue-Icons/aegis-icons/master/.github/showcase.svg" width="600" />
 </p>
 
 <p align="center">
-   <b><a href="https://delta-icons.github.io/">Browse the icons on our website</a></b> • <b><a href="../../releases/latest">Download icon pack</a></b> • <b><a href="FAQ.md">FAQ</a></b> • 
+   <b><a href="https://blue-icons.github.io/">Browse the icons on our website</a></b> • <b><a href="../../releases/latest">Download icon pack</a></b> • <b><a href="FAQ.md">FAQ</a></b> • 
    <b><a href="CONTRIBUTING.md">Contributing</a></b>
 </p>
 
