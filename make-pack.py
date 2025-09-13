@@ -9,7 +9,7 @@ import zipfile
 def _do_gen_def(args):
     pack = {
         "uuid": "18400066-2748-11ee-be56-0242ac120002",
-        "name": "delta-aegis-icons",
+        "name": "blue-aegis-icons",
         "version": 0,
         "icons": []
     }
