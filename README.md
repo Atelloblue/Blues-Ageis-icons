@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <b>Atelloblues version of <a href="https://aegis-icons.github.io/">aegis-icons</a>, the unofficial monochrome-styled 2FA icon pack for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</b>
+    <b>Atelloblue's version of <a href="https://aegis-icons.github.io/">aegis-icons</a>, the unofficial monochrome-styled 2FA icon pack for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-   <b><a href="https://blue-icons.github.io/">Browse the icons on our website</a></b> • <b><a href="../../releases/latest">Download icon pack</a></b> • <b><a href="FAQ.md">FAQ</a></b> • 
+   <b><a href="https://Atelloblue/blue-icons.github.io/">Browse the icons on our website</a></b> • <b><a href="../../releases/latest">Download icon pack</a></b> • <b><a href="FAQ.md">FAQ</a></b> • 
    <b><a href="CONTRIBUTING.md">Contributing</a></b>
 </p>
 
