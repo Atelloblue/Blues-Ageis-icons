@@ -1,7 +1,7 @@
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Blue-Icons/blue-icons/master/.github/blue_logo.svg" width="200" />
-    <img src="https://raw.githubusercontent.com/Blue-Icons/aegis-icons/master/.github/aegis_logo.svg" width="200" />
+    <img src="https://raw.githubusercontent.com/Atelloblue/blue-aegis-icons/refs/heads/master/.github/blue_logo.svg" width="200" />
+    <img src="https://raw.githubusercontent.com/Atelloblue/blue-aegis-icons/master/.github/aegis_logo.svg" width="200" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Blue-Icons/aegis-icons/master/.github/showcase.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/Atelloblue/blue-aegis-icons/master/.github/showcase.svg" width="600" />
 </p>
 
 <p align="center">
